@@ -1579,7 +1579,7 @@ MonoBehaviour:
     m_Bits: 64
   feetPos: {fileID: 741828189}
   groundDistance: 0.25
-  jumpTime: 0.3
+  jumpTime: 0.45
   crouchHeight: 0.5
   normalHeight: 1
 --- !u!50 &1507081507
